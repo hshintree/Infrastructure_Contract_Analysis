@@ -130,4 +130,4 @@ This will:
 - `execution.ipynb` example notebook workspace
 
 ### License
-Internal research codebase; see repository-level license if present. 
+Internal research codebase; if you have any questions feel free to email hshindy@stanford.edu. 
