@@ -1,0 +1,50 @@
+{
+  "generated_at": "2025-09-02T20:20:04.784848",
+  "corpus_stats": {
+    "total_documents": 3,
+    "total_sections": 184,
+    "total_definitions": 0,
+    "industries": {
+      "LNG": 1,
+      "Power": 2
+    },
+    "jurisdictions": {
+      "US": 2,
+      "US-CO": 1
+    },
+    "clause_types": {
+      "Other": 138,
+      "Purchase and Sale": 10,
+      "Price": 4,
+      "Governing Law": 4,
+      "Termination": 14,
+      "Notices": 4,
+      "Miscellaneous": 5,
+      "Covenants": 5
+    },
+    "document_types": {
+      "Wholesale Power Contract": 3
+    }
+  },
+  "num_chunks": 618,
+  "tag_counts": {
+    "termination": 459,
+    "assignment": 295,
+    "governing_law": 285,
+    "indemnification": 252,
+    "representations_warranties": 231,
+    "transmission": 172,
+    "dispute_resolution": 167,
+    "material_adverse_effect": 133,
+    "point_of_delivery": 48,
+    "arbitration": 35,
+    "curtailment": 15,
+    "delivery": 15,
+    "liquidated_damages": 15,
+    "crod": 14,
+    "purchase_price_adjustment": 14,
+    "pricing": 12,
+    "force_majeure": 3,
+    "patronage": 1
+  }
+}
